@@ -1,4 +1,5 @@
 Link: [uasweb.ct.ws](https://uasweb.infinityfreeapp.com/)
+Saya sudah coba 4 hostingan tidak ada yang bisa. untuk tampilan dan fungsi bisa dilihat di pdf
 
 # Laravel 8 - Ecommerce application
 
