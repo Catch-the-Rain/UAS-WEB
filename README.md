@@ -1,3 +1,5 @@
+Link: uasweb.ct.ws
+
 # Laravel 8 - Ecommerce application
 
 ## Run Locally
